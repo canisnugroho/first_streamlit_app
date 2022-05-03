@@ -9,3 +9,4 @@ streamlit.text('🐔 Scrambled Free-Range Eggs')
 streamlit.text('🥑🍞 Avocado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.header('\N{flexed biceps} Breakfast of Champion Coders \N{flexed biceps}')
